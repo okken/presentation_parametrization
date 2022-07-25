@@ -17,7 +17,7 @@ and using generators.
 * [Talk blurb from PyCon 2020](https://us.pycon.org/2020/schedule/presentation/172/)
 * [code](code/)
 * [slides](ParametrizedTesting.pdf)
-* video : when available
+* [video](https://www.youtube.com/watch?v=2R1HELARjUk)
 
 ## Resources 
 
